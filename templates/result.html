@@ -1,19 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Your Diet Plan</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
-</head>
-<body>
-    <h2>Your Personalized Diet Plan</h2>
-    {% for day in meal_plan %}
-        <h3>Day {{ day['day'] }}:</h3>
-        <p>Breakfast: {{ day['breakfast']['name'] }} - {{ day['breakfast']['calories'] }} kcal</p>
-        <p>Lunch: {{ day['lunch']['name'] }} - {{ day['lunch']['calories'] }} kcal</p>
-        <p>Dinner: {{ day['dinner']['name'] }} - {{ day['dinner']['calories'] }} kcal</p>
-        <p>Snack: {{ day['snack']['name'] }} - {{ day['snack']['calories'] }} kcal</p>
-        <p>Total Calories: {{ day['total_calories'] }} kcal</p>
-    {% endfor %}
-</body>
-</html>
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <title>Your Diet Plan</title>
+     <link rel="stylesheet" href="{{ url_for('static', filename='result_style.css') }}">
+ </head>
+ <body>
+
+    <div class="video-background">
+        <video autoplay muted loop id="bg-video">
+            <source src="static\videos\5866259-uhd_3840_2160_25fps (1).mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <div class="header-container">
+     <h2>Your Personalized Diet Plan</h2>
+     <div class="result-container">
+         {% for day in meal_plan %}
+             <div class="result-day">
+                 <h3>Day {{ day['day'] }}:</h3>
+                 <p><strong>Breakfast:</strong> {{ day['breakfast']['name'] }} - {{ day['breakfast']['calories'] }} kcal</p>
+                 <p><strong>Lunch:</strong> {{ day['lunch']['name'] }} - {{ day['lunch']['calories'] }} kcal</p>
+                 <p><strong>Dinner:</strong> {{ day['dinner']['name'] }} - {{ day['dinner']['calories'] }} kcal</p>
+                 <p><strong>Snack:</strong> {{ day['snack']['name'] }} - {{ day['snack']['calories'] }} kcal</p>
+                 <p><strong>Total Calories:</strong> {{ day['total_calories'] }} kcal</p>
+             </div>
+         {% endfor %}
+     </div>
+     <a class="back-link" href="/">Go Back</a>
+    </div>
+ </body>
+ </html>
