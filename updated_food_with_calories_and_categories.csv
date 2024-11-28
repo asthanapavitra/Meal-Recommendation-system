@@ -1,0 +1,400 @@
+Food Product,Main Ingredient,Sweetener,Fat/Oil,Seasoning,Allergens,Prediction,Calories,Category
+Almond Cookies,Almonds,Sugar,Butter,Flour,"Almonds, Wheat, Dairy",Contains,450.4,Veg
+Almond Cookies,Almonds,Sugar,Butter,Flour,"Almonds, Wheat, Dairy",Contains,450.4,Veg
+Chicken Noodle Soup,Chicken broth,,,Salt,"Chicken, Wheat, Celery",Contains,25.4,Non-Veg
+Chicken Noodle Soup,Chicken broth,,,Salt,"Chicken, Wheat, Celery",Contains,25.4,Non-Veg
+Cheddar Cheese,Cheese,,,Salt,Dairy,Contains,405.3,Vegan
+Ranch Dressing,Buttermilk,Sugar,Vegetable oil,"Garlic, herbs",Dairy,Contains,421.1,Vegan
+Caramel Popcorn,Popcorn,Sugar,Butter,Salt,Dairy,Contains,441.9,Veg
+Caesar Salad,Romaine lettuce,,Olive oil,Parmesan cheese,Dairy,Contains,160.4,Veg
+Caesar Wrap,Grilled chicken,,Caesar dressing,"Lettuce, Parmesan cheese",Dairy,Contains,333.5,Non-Veg
+Strawberry Smoothie,Strawberries,Honey,"Yogurt (milk, cultures)",,Dairy,Contains,90.8,Veg
+Cheese Pizza,Cheese,,,Tomato sauce,Dairy,Contains,259.6,Vegan
+Margherita Pizza,Cheese,,,"Tomato sauce, basil",Dairy,Contains,162.3,Vegan
+Mashed Potatoes,Potatoes,,Butter,"Salt, Pepper",Dairy,Contains,114.0,Veg
+Greek Yogurt,"Yogurt (milk, cultures)",,,,Dairy,Contains,60.7,Vegan
+Caesar Salad Wrap,Grilled chicken,,Caesar dressing,"Lettuce, Parmesan cheese",Dairy,Contains,160.4,Non-Veg
+Caprese Salad,Tomatoes,,Olive oil,"Mozzarella cheese, basil",Dairy,Contains,160.6,Veg
+Berry Smoothie,Mixed berries,Sugar,"Yogurt (milk, cultures)",,Dairy,Contains,51.0,Veg
+Caesar Salad,Romaine lettuce,,Olive oil,Caesar dressing,Dairy,Contains,160.4,Veg
+Berry Parfait,Mixed berries,Sugar,"Yogurt (milk, cultures)",Granola,Dairy,Contains,51.0,Veg
+Chicken Alfredo,Chicken,,Butter,"Cream, Parmesan cheese",Dairy,Contains,256.9,Non-Veg
+Pesto Pizza,Pesto sauce,,,"Mozzarella cheese, basil",Dairy,Contains,212.7,Veg
+Beef Stroganoff,Beef,,Sour cream,"Mushroom, onion",Dairy,Contains,150.3,Non-Veg
+Banana Smoothie,Bananas,Honey,"Yogurt (milk, cultures)",,Dairy,Contains,88.3,Veg
+Watermelon Salad,Watermelon,,,"Feta cheese, mint",Dairy,Contains,30.3,Veg
+Chicken Parmesan,Chicken,,"Bread crumbs, Parmesan cheese",Marinara sauce,Dairy,Contains,203.5,Non-Veg
+Mango Lassi,Mango,Sugar,"Yogurt (milk, cultures)",Cardamom,Dairy,Contains,77.5,Veg
+Greek Salad,Cucumbers,,Olive oil,"Feta cheese, olives",Dairy,Contains,89.4,Veg
+Butternut Squash Soup,Butternut squash,,Butter,Vegetable broth,Dairy,Contains,45.3,Vegan
+Margherita Pasta,Pasta,,Olive oil,"Fresh tomatoes, mozzarella",Dairy,Contains,156.0,Veg
+Greek Gyro Wrap,Lamb,,,"Tzatziki sauce, tomatoes, onions",Dairy,Contains,179.9,Non-Veg
+Spinach and Feta Stuffed Chicken,Chicken,,Olive oil,"Spinach, feta cheese",Dairy,Contains,23.3,Non-Veg
+Chicken Fettuccine Alfredo,Chicken,,Butter,"Cream, Parmesan cheese",Dairy,Contains,268.3,Non-Veg
+Caprese Sandwich,Tomatoes,,Olive oil,"Mozzarella cheese, basil",Dairy,Contains,158.6,Veg
+Mushroom Risotto,Mushrooms,,Butter,"Arborio rice, Parmesan cheese",Dairy,Contains,84.7,Veg
+Greek Yogurt Parfait,Greek yogurt,Honey,,"Granola, mixed berries",Dairy,Contains,60.7,Vegan
+Eggplant Parmesan,Eggplant,,Olive oil,"Marinara sauce, cheese",Dairy,Contains,152.9,Non-Veg
+Banana Pudding,Bananas,Sugar,Milk,"Vanilla pudding mix, cookies",Dairy,Contains,168.6,Veg
+Margherita Pizza,Pizza dough,,Olive oil,"Mozzarella cheese, tomatoes, basil",Dairy,Contains,162.3,Veg
+Chicken Caesar Wrap,Chicken,,Caesar dressing,"Romaine lettuce, Parmesan cheese",Dairy,Contains,256.3,Non-Veg
+Greek Spanakopita,Spinach,,Olive oil,"Feta cheese, phyllo dough",Dairy,Contains,249.7,Veg
+Mushroom Soup,Mushrooms,,Butter,Vegetable broth,Dairy,Contains,79.7,Veg
+Greek Yogurt,"Yogurt (milk, cultures)",Honey,,,Dairy,Contains,60.7,Vegan
+Spinach Artichoke Dip,Spinach,,"Cream cheese, sour cream","Parmesan cheese, garlic",Dairy,Contains,186.1,Veg
+Chocolate Mousse,Chocolate,Sugar,Heavy cream,Vanilla extract,Dairy,Contains,227.0,Veg
+Stuffed Portobello Mushrooms,Portobello mushrooms,,,"Cheese, breadcrumbs",Dairy,Contains,29.5,Veg
+Caprese Salad,Tomatoes,,Olive oil,"Mozzarella cheese, basil",Dairy,Contains,160.6,Veg
+Tandoori Chicken,Chicken,,Yogurt,Tandoori spices,Dairy,Contains,132.3,Non-Veg
+Beef Stroganoff,Beef,,Sour cream,"Mushrooms, onions",Dairy,Contains,150.3,Non-Veg
+Strawberry Smoothie,Strawberries,Sugar,Yogurt,Milk,Dairy,Contains,90.8,Veg
+Baked Garlic Parmesan Chicken,Chicken,,Butter,"Parmesan cheese, garlic",Dairy,Contains,144.8,Non-Veg
+Mushroom and Goat Cheese Flatbread,Mushrooms,,Olive oil,"Goat cheese, herbs",Dairy,Contains,28.0,Veg
+Margherita Pasta,Pasta,,Olive oil,"Mozzarella cheese, tomatoes, basil",Dairy,Contains,156.0,Veg
+Pumpkin Soup,Pumpkin,,Butter,"Nutmeg, cream",Dairy,Contains,47.9,Veg
+Butternut Squash Soup,Butternut squash,,Butter,"Nutmeg, cream",Dairy,Contains,45.3,Vegan
+Caprese Skewers,Tomatoes,,Olive oil,"Mozzarella cheese, basil",Dairy,Contains,158.6,Veg
+Chicken Piccata,Chicken,,Butter,"Lemon, capers",Dairy,Contains,249.2,Non-Veg
+Berry Parfait,Berries,Honey,Yogurt,Granola,Dairy,Contains,51.0,Veg
+Stuffed Mushrooms,Mushrooms,,,"Cheese, breadcrumbs",Dairy,Contains,226.0,Veg
+Spinach Artichoke Dip,Spinach,,"Cream cheese, sour cream","Parmesan cheese, garlic",Dairy,Contains,186.1,Veg
+Chocolate Mousse,Chocolate,Sugar,Heavy cream,Vanilla extract,Dairy,Contains,227.0,Veg
+Stuffed Portobello Mushrooms,Portobello mushrooms,,,"Cheese, breadcrumbs",Dairy,Contains,29.5,Veg
+Caprese Salad,Tomatoes,,Olive oil,"Mozzarella cheese, basil",Dairy,Contains,160.6,Veg
+Tandoori Chicken,Chicken,,Yogurt,Tandoori spices,Dairy,Contains,132.3,Non-Veg
+Beef Stroganoff,Beef,,Sour cream,"Mushrooms, onions",Dairy,Contains,150.3,Non-Veg
+Strawberry Smoothie,Strawberries,Sugar,Yogurt,Milk,Dairy,Contains,90.8,Veg
+Baked Garlic Parmesan Chicken,Chicken,,Butter,"Parmesan cheese, garlic",Dairy,Contains,144.8,Non-Veg
+Butter Chicken,Chicken,Sugar,Butter,"Tomato sauce, cream",Dairy,Contains,152.0,Non-Veg
+Palak Paneer,Spinach,,Ghee,"Paneer, spices",Dairy,Contains,183.3,Veg
+Tandoori Chicken,Chicken,,Yogurt,Tandoori spices,Dairy,Contains,132.3,Non-Veg
+Rogan Josh,Lamb,,Ghee,"Yogurt, Kashmiri red chili",Dairy,Contains,96.8,Non-Veg
+Paneer Tikka,Paneer,,Oil,"Tikka masala, spices",Dairy,Contains,100.4,Veg
+Dal Makhani,Lentils,,Ghee,"Cream, spices",Dairy,Contains,170.9,Veg
+Malai Kofta,Cottage cheese,,Ghee,Creamy tomato sauce,Dairy,Contains,248.5,Vegan
+Chicken Tikka Masala,Chicken,Sugar,Ghee,"Tomato sauce, cream",Dairy,Contains,149.9,Non-Veg
+Gulab Jamun,Milk solids,Sugar,Ghee,Cardamom syrup,Dairy,Contains,293.7,Vegan
+Chicken Korma,Chicken,,Ghee,"Creamy sauce, spices",Dairy,Contains,222.6,Non-Veg
+Malai Chicken Tikka,Chicken,,Cream,Spices,Dairy,Contains,115.7,Non-Veg
+Dahi Vada,Lentil dumplings,,Yogurt,"Tamarind chutney, spices",Dairy,Contains,122.5,Veg
+Chicken Malai Tikka,Chicken,,Cream,Spices,Dairy,Contains,222.6,Non-Veg
+Matar Paneer,Paneer,,Ghee,"Peas, spices",Dairy,Contains,299.7,Veg
+Rasgulla,Paneer,Sugar,,"Rose water, syrup",Dairy,Contains,0.0,Veg
+Rabri,Milk,Sugar,Ghee,"Cardamom, nuts",Dairy,Contains,0.0,Vegan
+Chicken Korma,Chicken,,Ghee,"Creamy sauce, spices",Dairy,Contains,222.6,Non-Veg
+Gulab Jamun,Milk solids,Sugar,Ghee,Cardamom syrup,Dairy,Contains,293.7,Vegan
+Rogan Josh,Lamb,,Ghee,"Yogurt, Kashmiri red chili",Dairy,Contains,96.8,Non-Veg
+Kheer,Rice,Sugar,Ghee,"Cardamom, nuts",Dairy,Contains,115.2,Veg
+Rasmalai,Paneer,Sugar,"Milk, Ghee","Cardamom, nuts",Dairy,Contains,0.0,Veg
+Chicken Caesar Salad,Chicken breast,,Olive oil,Parmesan cheese,"Dairy, Anchovies",Contains,159.5,Non-Veg
+Chocolate Mousse,Chocolate,Sugar,Heavy cream,Vanilla extract,"Dairy, Cocoa",Contains,227.0,Veg
+Quiche Lorraine,Bacon,,Heavy cream,"Cheese, eggs","Dairy, Eggs",Contains,366.4,Veg
+Chicken Piccata,Chicken,,Butter,"Lemon, capers","Dairy, Fish",Contains,249.2,Non-Veg
+Chicken Tikka Masala,Chicken,,Ghee,Tikka masala sauce,"Dairy, Ghee",Contains,149.9,Non-Veg
+Sweet Potato Casserole,Sweet potatoes,Brown sugar,Butter,"Cinnamon, nutmeg","Dairy, Nuts",Contains,240.6,Veg
+Baked Brie,Brie cheese,,,"Herbs, nuts","Dairy, Nuts",Contains,343.4,Vegan
+French Onion Soup,Onions,,Butter,"Beef broth, cheese, bread","Dairy, Wheat",Contains,137.8,Veg
+Greek Gyro,Lamb/Chicken,,,"Tzatziki sauce, vegetables","Dairy, Wheat",Contains,179.9,Non-Veg
+French Onion Soup,Onions,,Butter,"Beef broth, cheese, bread","Dairy, Wheat",Contains,137.8,Veg
+Omelette,Eggs,,Butter,"Salt, pepper",Eggs,Contains,176.7,Non-Veg
+Egg Salad,Eggs,Mayonnaise,,"Celery, onion",Eggs,Contains,217.8,Non-Veg
+Egg Salad,Eggs,Mayonnaise,,"Celery, onion",Eggs,Contains,217.8,Non-Veg
+Quiche,Eggs,,Cheese,Vegetables,"Eggs, Dairy",Contains,381.1,Non-Veg
+Egg Salad Sandwich,Eggs,Mayonnaise,,"Celery, mustard","Eggs, Mustard",Contains,222.9,Non-Veg
+Egg Fried Rice,Eggs,,Sesame oil,Soy sauce,"Eggs, Soybeans",Contains,147.0,Non-Veg
+Fish Sticks,Fish fillets,,Vegetable oil,Salt,Fish,Contains,275.5,Non-Veg
+Fish Sticks,Fish fillets,,Vegetable oil,Salt,Fish,Contains,275.5,Non-Veg
+Baked Salmon,Salmon fillet,,Olive oil,"Lemon, herbs",Fish,Contains,200.1,Veg
+Teriyaki Salmon,Salmon,,Vegetable oil,Teriyaki sauce,Fish,Contains,240.1,Veg
+Baked Salmon,Salmon,,Olive oil,"Lemon, herbs",Fish,Contains,200.1,Veg
+Lemon Dill Salmon,Salmon,,Olive oil,"Lemon, dill",Fish,Contains,29.0,Veg
+Baked Salmon,Salmon,,Olive oil,"Lemon, herbs",Fish,Contains,200.1,Veg
+Malabar Fish Curry,Fish,,Coconut oil,"Tamarind, spices","Fish, Coconut",Contains,142.6,Non-Veg
+Baked Cod,Cod,,Butter,"Lemon, herbs","Fish, Dairy",Contains,105.0,Veg
+Baked Cod,Cod,,Butter,"Lemon, herbs","Fish, Dairy",Contains,105.0,Veg
+Tuna Sandwich,Tuna,Mayonnaise,,"Salt, Pepper","Fish, Eggs",Contains,204.3,Veg
+Tuna Salad,Tuna,Mayonnaise,,"Celery, onion","Fish, Eggs",Contains,181.9,Veg
+Sushi,"Fish (salmon, tuna)",Rice vinegar,Sesame oil,Soy sauce,"Fish, Soybeans",Contains,130.9,Non-Veg
+Teriyaki Salmon,Salmon fillet,Sugar,Soy sauce,"Ginger, garlic","Fish, Soybeans",Contains,240.1,Veg
+Sushi Bowl,Sushi rice,,Soy sauce,"Raw fish, vegetables","Fish, Soybeans",Contains,130.9,Veg
+Honey Soy Glazed Salmon,Salmon,Honey,Soy sauce,"Garlic, ginger","Fish, Soybeans",Contains,302.9,Veg
+Sushi Bowl,Sushi rice,,Soy sauce,"Raw fish, vegetables","Fish, Soybeans",Contains,130.9,Veg
+Honey Soy Glazed Salmon,Salmon,Honey,Soy sauce,"Garlic, ginger","Fish, Soybeans",Contains,302.9,Veg
+Milk Chocolate,Sugar,Cocoa butter,Milk powder,Vanilla extract,Milk,Contains,549.0,Veg
+Milk Chocolate,Sugar,Cocoa butter,Milk powder,Vanilla extract,Milk,Contains,549.0,Veg
+Vanilla Ice Cream,Milk,Sugar,Cream,Vanilla extract,Milk,Contains,208.2,Vegan
+Vanilla Yogurt,"Yogurt (milk, cultures)",Sugar,,Vanilla extract,Milk,Contains,86.5,Vegan
+Strawberry Yogurt,"Yogurt (milk, cultures)",Sugar,,Pectin,"Milk, Strawberries",Contains,97.3,Vegan
+Strawberry Yogurt,"Yogurt (milk, cultures)",Sugar,,Pectin,"Milk, Strawberries",Contains,97.3,Vegan
+Tomato Soup,Tomatoes,,,"Salt, Sugar",,Does not contain,34.3,Veg
+Apple,Apples,,,,,Does not contain,53.0,Veg
+Tomato Soup,Tomatoes,,,"Salt, Sugar",,Does not contain,34.3,Veg
+Apple,Apples,,,,,Does not contain,53.0,Veg
+Orange Juice,Oranges,Sugar,,,,Does not contain,46.4,Veg
+Greek Salad,Cucumber,,Olive oil,Lemon juice,,Does not contain,89.4,Veg
+Spaghetti Bolognese,Ground beef,Sugar,Olive oil,Tomato sauce,,Contains,100.6,Non-Veg
+Honey Mustard Chicken,Chicken breast,Honey,Mustard,Vegetable oil,,Contains,0.0,Non-Veg
+BBQ Ribs,Pork ribs,Brown sugar,Vegetable oil,BBQ sauce,,Contains,0.0,Veg
+Quinoa Salad,Quinoa,,Olive oil,"Lemon juice, herbs",,Does not contain,0.0,Veg
+Vegetable Stir-Fry,Mixed vegetables,,Vegetable oil,Soy sauce,,Does not contain,32.7,Veg
+Beef Burger,Ground beef,,Vegetable oil,"Salt, Pepper",,Does not contain,246.1,Non-Veg
+French Fries,Potatoes,,Vegetable oil,Salt,,Does not contain,312.5,Veg
+Lemonade,Lemon juice,Sugar,Water,,,Does not contain,38.9,Veg
+Gazpacho,Tomatoes,,Olive oil,"Garlic, herbs",,Does not contain,50.4,Veg
+Beef Tacos,Ground beef,,Vegetable oil,Taco seasoning,,Does not contain,291.9,Non-Veg
+Lentil Soup,Lentils,,Olive oil,Vegetables,,Does not contain,56.4,Veg
+Chicken Curry,Chicken,,Vegetable oil,Curry powder,,Does not contain,106.3,Non-Veg
+Ratatouille,Eggplant,,Olive oil,Tomatoes,,Does not contain,58.3,Non-Veg
+Pesto Pasta,Pasta,,Olive oil,"Basil, garlic",,Does not contain,216.5,Veg
+Chicken Stir-Fry,Chicken,,Vegetable oil,Soy sauce,,Does not contain,222.6,Non-Veg
+Veggie Burger,Mixed vegetables,,Vegetable oil,Seasonings,,Does not contain,192.2,Veg
+Vegetable Soup,Mixed vegetables,,Olive oil,Seasonings,,Does not contain,32.3,Veg
+Spinach Salad,Spinach,,Olive oil,Balsamic vinegar,,Does not contain,154.9,Veg
+Chicken Enchiladas,Chicken,,Vegetable oil,Enchilada sauce,,Does not contain,214.7,Non-Veg
+Minestrone Soup,Vegetables,,Olive oil,Tomato broth,,Does not contain,52.1,Veg
+Salsa,Tomatoes,,,"Onion, cilantro",,Does not contain,29.6,Veg
+Lemon Garlic Chicken,Chicken,,Olive oil,"Lemon juice, garlic",,Does not contain,29.0,Non-Veg
+Pancetta Pasta,Pasta,,Pancetta,"Garlic, herbs",,Does not contain,511.6,Veg
+Chicken Teriyaki,Chicken,,Vegetable oil,Teriyaki sauce,,Does not contain,153.6,Non-Veg
+Spinach Stuffed Chicken,Chicken,,Olive oil,"Spinach, garlic",,Does not contain,23.3,Non-Veg
+Coconut Curry,Chicken,,Coconut milk,Curry paste,,Does not contain,137.0,Non-Veg
+Apple Cider,Apples,Sugar,,Cinnamon,,Does not contain,45.6,Veg
+Ratatouille,Eggplant,,Olive oil,"Tomatoes, zucchini",,Does not contain,58.3,Non-Veg
+Avocado Toast,Avocado,,Olive oil,"Salt, pepper",,Does not contain,167.2,Veg
+Beef Stir-Fry,Beef,,Vegetable oil,Soy sauce,,Does not contain,291.9,Non-Veg
+Black Bean Soup,Black beans,,Olive oil,Vegetables,,Does not contain,45.7,Veg
+Beef Tacos,Ground beef,,Vegetable oil,Taco seasoning,,Does not contain,291.9,Non-Veg
+Cucumber Salad,Cucumber,,Olive oil,"Lemon juice, dill",,Does not contain,28.9,Veg
+Fruit Salad,Mixed fruits,Sugar,,Lemon juice,,Does not contain,58.7,Veg
+Sausage Pizza,Sausage,,,Mozzarella cheese,,Does not contain,274.1,Veg
+Chicken Fajitas,Chicken,,Vegetable oil,Fajita seasoning,,Does not contain,197.3,Non-Veg
+Mango Salsa,Mango,,,"Red onion, lime",,Does not contain,52.3,Veg
+Lentil Curry,Lentils,,Coconut milk,Curry powder,,Does not contain,92.9,Veg
+Green Smoothie,Spinach,Honey,Avocado,Almond milk,,Does not contain,58.1,Veg
+Stuffed Bell Peppers,Bell peppers,,Olive oil,"Ground meat, rice",,Does not contain,99.6,Veg
+Beef and Broccoli,Beef,,Vegetable oil,Soy sauce,,Does not contain,151.6,Non-Veg
+Cabbage Rolls,Cabbage,,Olive oil,"Ground meat, rice",,Does not contain,88.5,Veg
+Caramel Apple,Apples,Caramel,,,,Does not contain,108.1,Veg
+Sweet Potato Fries,Sweet potatoes,,Vegetable oil,"Salt, paprika",,Does not contain,284.6,Veg
+Beef Chili,Ground beef,,,Chili powder,,Does not contain,121.3,Non-Veg
+Pesto Chicken,Chicken,,Pesto sauce,,,Does not contain,502.4,Non-Veg
+Beef Burritos,Ground beef,,Vegetable oil,Taco seasoning,,Does not contain,180.7,Non-Veg
+Chicken Shawarma,Chicken,,Olive oil,Shawarma spices,,Does not contain,222.6,Non-Veg
+Stuffed Mushrooms,Mushrooms,,,"Garlic, herbs",,Does not contain,226.0,Veg
+Zucchini Noodles,Zucchini,,Olive oil,"Garlic, herbs",,Does not contain,16.5,Veg
+Sweet and Sour Chicken,Chicken,Sugar,Vegetable oil,"Pineapple, bell peppers",,Does not contain,247.7,Non-Veg
+Beef Kabobs,Beef,,Olive oil,Seasonings,,Does not contain,227.1,Non-Veg
+Tomato Bruschetta,Tomatoes,,Olive oil,"Garlic, basil",,Does not contain,18.2,Veg
+Quinoa Stuffed Peppers,Quinoa,,Olive oil,"Vegetables, spices",,Does not contain,121.8,Veg
+Veggie Omelette,Mixed vegetables,,Olive oil,"Salt, pepper",,Does not contain,142.6,Veg
+Ratatouille,Vegetables,,Olive oil,"Herbs, garlic",,Does not contain,58.3,Veg
+Beef Tacos,Beef,,Vegetable oil,Taco seasoning,,Does not contain,291.9,Non-Veg
+Quinoa Salad,Quinoa,,Olive oil,"Lemon juice, vegetables",,Does not contain,111.1,Veg
+Vegetable Stir-Fry,Mixed vegetables,,Vegetable oil,Soy sauce,,Does not contain,32.7,Veg
+Buffalo Wings,Chicken wings,,Vegetable oil,Buffalo sauce,,Does not contain,321.5,Non-Veg
+Lentil Soup,Lentils,,Olive oil,Vegetables,,Does not contain,56.4,Veg
+Stuffed Cabbage Rolls,Cabbage,,Olive oil,"Ground meat, rice",,Does not contain,90.8,Veg
+Orange Chicken,Chicken,,Vegetable oil,Orange sauce,,Does not contain,259.9,Non-Veg
+Honey Mustard Chicken,Chicken,Honey,Olive oil,"Mustard, herbs",,Does not contain,181.0,Non-Veg
+Lentil Salad,Lentils,,Olive oil,"Lemon juice, vegetables",,Does not contain,125.6,Veg
+Cilantro Lime Chicken,Chicken,,Olive oil,"Cilantro, lime",,Does not contain,22.9,Non-Veg
+Ratatouille Pizza,Pizza dough,,Olive oil,Ratatouille vegetables,,Does not contain,58.3,Veg
+Chicken Curry,Chicken,,Coconut milk,Curry powder,,Does not contain,106.3,Non-Veg
+Pesto Pasta Salad,Pasta,,Pesto sauce,"Tomatoes, vegetables",,Does not contain,216.5,Veg
+Beef and Mushroom Stir-Fry,Beef,,Vegetable oil,Soy sauce,,Does not contain,291.9,Non-Veg
+Tofu Curry,Tofu,,Coconut milk,Curry paste,,Does not contain,81.7,Veg
+Stuffed Bell Peppers,Bell peppers,,Olive oil,"Ground meat, rice",,Does not contain,99.6,Veg
+Stuffed Bell Peppers,Bell peppers,,Olive oil,"Ground meat, rice",,Does not contain,99.6,Veg
+Greek Moussaka,Eggplant,,Olive oil,"Ground meat, potatoes",,Does not contain,109.7,Non-Veg
+Brussels Sprouts,Brussels sprouts,,Olive oil,Balsamic glaze,,Does not contain,36.6,Veg
+Baked Chicken Wings,Chicken wings,,Olive oil,Seasonings,,Does not contain,359.9,Non-Veg
+Mango Coconut Popsicles,Mango,Sugar,Coconut milk,,,Does not contain,61.6,Veg
+Ratatouille Pasta,Pasta,,Olive oil,Ratatouille vegetables,,Does not contain,58.3,Veg
+Chicken Noodle Soup,Chicken,,Vegetable oil,"Noodles, vegetables",,Does not contain,25.4,Non-Veg
+Mango Salsa,Mango,,,"Lime juice, cilantro",,Does not contain,52.3,Veg
+Spinach Salad,Spinach,,Olive oil,Balsamic vinaigrette,,Does not contain,154.9,Veg
+Caramelized Onions,Onions,Sugar,Butter,,,Does not contain,120.3,Veg
+Beef Stir-Fry,Beef,,Vegetable oil,Soy sauce,,Does not contain,291.9,Non-Veg
+Strawberry Spinach Salad,Spinach,,,"Strawberries, vinaigrette",,Does not contain,31.9,Veg
+Ratatouille Tart,Vegetables,,Olive oil,"Puff pastry, herbs",,Does not contain,58.3,Veg
+Honey Glazed Carrots,Carrots,Honey,Butter,,,Does not contain,302.9,Veg
+Cucumber Salad,Cucumbers,,Olive oil,"Vinegar, herbs",,Does not contain,28.9,Veg
+Greek Lemon Potatoes,Potatoes,,Olive oil,"Lemon juice, herbs",,Does not contain,29.0,Veg
+Stuffed Tomatoes,Tomatoes,,,"Herbs, breadcrumbs",,Does not contain,18.5,Veg
+Avocado Toast,Avocado,,Olive oil,"Salt, pepper",,Does not contain,167.2,Veg
+Lemon Pepper Chicken,Chicken,,Olive oil,Lemon pepper seasoning,,Does not contain,195.2,Non-Veg
+Chicken Shawarma,Chicken,,Olive oil,Shawarma seasoning,,Does not contain,222.6,Non-Veg
+Lemon Herb Roasted Chicken,Chicken,,Olive oil,"Lemon, herbs",,Does not contain,29.0,Non-Veg
+Greek Lemon Chicken,Chicken,,Olive oil,"Lemon juice, herbs",,Does not contain,258.3,Non-Veg
+Roasted Brussels Sprouts,Brussels sprouts,,Olive oil,Balsamic glaze,,Does not contain,81.1,Veg
+Beef Burritos,Beef,,Vegetable oil,Burrito seasoning,,Does not contain,180.7,Non-Veg
+Raspberry Spinach Salad,Spinach,,,"Raspberries, vinaigrette",,Does not contain,52.7,Veg
+Chicken and Rice Soup,Chicken,,Vegetable oil,"Rice, vegetables",,Does not contain,23.7,Non-Veg
+Chicken Fajitas,Chicken,,Vegetable oil,Fajita seasoning,,Does not contain,197.3,Non-Veg
+Vegetable Curry,Mixed vegetables,,Coconut milk,Curry paste,,Does not contain,78.3,Veg
+Ratatouille,Vegetables,,Olive oil,Herbs,,Does not contain,58.3,Veg
+Pesto Pasta Salad,Pasta,,Pesto sauce,"Tomatoes, vegetables",,Does not contain,216.5,Veg
+Beef and Mushroom Stir-Fry,Beef,,Vegetable oil,Soy sauce,,Does not contain,291.9,Non-Veg
+Tofu Curry,Tofu,,Coconut milk,Curry paste,,Does not contain,81.7,Veg
+Stuffed Bell Peppers,Bell peppers,,Olive oil,"Ground meat, rice",,Does not contain,99.6,Veg
+Greek Moussaka,Eggplant,,Olive oil,"Ground meat, potatoes",,Does not contain,109.7,Non-Veg
+Brussels Sprouts,Brussels sprouts,,Olive oil,Balsamic glaze,,Does not contain,36.6,Veg
+Baked Chicken Wings,Chicken wings,,Olive oil,Seasonings,,Does not contain,359.9,Non-Veg
+Mango Coconut Popsicles,Mango,Sugar,Coconut milk,,,Does not contain,61.6,Veg
+Ratatouille Pasta,Pasta,,Olive oil,Ratatouille vegetables,,Does not contain,58.3,Veg
+Chicken Noodle Soup,Chicken,,Vegetable oil,"Noodles, vegetables",,Does not contain,25.4,Non-Veg
+Mango Salsa,Mango,,,"Lime juice, cilantro",,Does not contain,52.3,Veg
+Spinach Salad,Spinach,,Olive oil,Balsamic vinaigrette,,Does not contain,154.9,Veg
+Caramelized Onions,Onions,Sugar,Butter,,,Does not contain,120.3,Veg
+Beef Stir-Fry,Beef,,Vegetable oil,Soy sauce,,Does not contain,291.9,Non-Veg
+Strawberry Spinach Salad,Spinach,,,"Strawberries, vinaigrette",,Does not contain,31.9,Veg
+Ratatouille Tart,Vegetables,,Olive oil,"Puff pastry, herbs",,Does not contain,58.3,Veg
+Honey Glazed Carrots,Carrots,Honey,Butter,,,Does not contain,302.9,Veg
+Cucumber Salad,Cucumbers,,Olive oil,"Vinegar, herbs",,Does not contain,28.9,Veg
+Greek Lemon Potatoes,Potatoes,,Olive oil,"Lemon juice, herbs",,Does not contain,29.0,Veg
+Stuffed Tomatoes,Tomatoes,,,"Herbs, breadcrumbs",,Does not contain,18.5,Veg
+Biryani,Rice,,Ghee,"Biryani masala, spices",,Does not contain,142.9,Veg
+Chole Bhature,Chickpeas,Sugar,Ghee,"Chole masala, spices",,Does not contain,143.8,Veg
+Masala Dosa,Rice,,Oil,"Potato masala, spices",,Does not contain,171.7,Veg
+Samosa,Potatoes,,Ghee,Spices,,Contains,260.8,Veg
+Aloo Gobi,Potatoes,,Oil,"Cauliflower, spices",,Does not contain,70.1,Veg
+Chicken Biryani,Chicken,,Ghee,"Basmati rice, spices",,Does not contain,140.2,Non-Veg
+Vada Pav,Potato,,Oil,"Pav bun, chutney",,Does not contain,206.5,Veg
+Pani Puri,Semolina,Tamarind,,"Spiced water, chutney",,Does not contain,330.2,Veg
+Rajma Chawal,Kidney beans,,Ghee,Spices,,Contains,98.5,Veg
+Chicken Curry,Chicken,,Oil,Curry spices,,Does not contain,106.3,Non-Veg
+Vegetable Biryani,Mixed vegetables,,Ghee,"Basmati rice, spices",,Does not contain,118.1,Veg
+Chana Masala,Chickpeas,,Oil,Masala spices,,Does not contain,146.6,Veg
+Paniyaram,Fermented batter,,Oil,"Mustard seeds, curry leaves",,Does not contain,0.0,Veg
+Chicken Biryani,Chicken,,Ghee,"Basmati rice, spices",,Does not contain,140.2,Non-Veg
+Pav Bhaji,Mixed vegetables,,Butter,"Pav bread, spices",,Does not contain,98.9,Veg
+Hyderabadi Biryani,Basmati rice,,Ghee,"Meat/vegetables, spices",,Does not contain,142.9,Veg
+Chicken Curry,Chicken,,Oil,Curry spices,,Does not contain,106.3,Non-Veg
+Dosa,Rice,,Oil,"Potato masala, chutney",,Does not contain,170.5,Veg
+Chole Kulche,Chickpeas,,Ghee,"Kulcha bread, spices",,Does not contain,143.8,Veg
+Gobi Manchurian,Cauliflower,,Oil,Manchurian sauce,,Does not contain,0.0,Veg
+Mutton Biryani,Mutton,,Ghee,"Basmati rice, spices",,Does not contain,289.6,Veg
+Oatmeal,Oats,Sugar,Milk,Cinnamon,"Oats, Dairy",Contains,69.6,Veg
+Chicken Satay,Chicken,,Peanut butter,Soy sauce,Peanuts,Contains,222.6,Non-Veg
+Peanut Butter,Peanuts,Sugar,Vegetable oil,Salt,Peanuts,Contains,579.7,Veg
+Peanut Butter,Peanuts,Sugar,Vegetable oil,Salt,Peanuts,Contains,579.7,Veg
+Chicken Satay,Chicken,,Peanut oil,"Satay sauce, spices",Peanuts,Contains,222.6,Non-Veg
+Chicken Satay,Chicken,,Peanut oil,"Satay sauce, spices",Peanuts,Contains,222.6,Non-Veg
+Pesto Chicken,Chicken,,Olive oil,Pesto sauce,"Pine nuts, Dairy",Contains,502.4,Non-Veg
+Zucchini Noodles with Pesto,Zucchini,,Olive oil,Pesto sauce,"Pine nuts, Dairy",Contains,16.5,Veg
+Pesto Chicken,Chicken,,Olive oil,Pesto sauce,"Pine nuts, Dairy",Contains,502.4,Non-Veg
+Rice Pudding,Rice,Sugar,Milk,"Cinnamon, raisins","Rice, Dairy",Contains,111.1,Veg
+Shrimp Scampi,Shrimp,,Butter,"Garlic, lemon",Shellfish,Contains,170.5,Veg
+Shrimp Scampi Pasta,Shrimp,,Butter,"Garlic, lemon",Shellfish,Contains,170.5,Veg
+Garlic Shrimp,Shrimp,,Olive oil,Garlic,Shellfish,Contains,151.1,Veg
+Lemon Garlic Shrimp,Shrimp,,Olive oil,"Lemon juice, garlic",Shellfish,Contains,29.0,Veg
+Lemon Garlic Shrimp,Shrimp,,Olive oil,"Lemon juice, garlic",Shellfish,Contains,29.0,Veg
+Prawn Biryani,Prawns,,Ghee,"Basmati rice, spices",Shellfish,Contains,118.0,Non-Veg
+Lobster Bisque,Lobster,,Butter,"Cream, brandy","Shellfish, Dairy",Contains,103.2,Veg
+Caesar Shrimp Skewers,Shrimp,,Olive oil,Caesar dressing,"Shellfish, Dairy",Contains,119.0,Veg
+Shrimp Scampi,Shrimp,,Butter,"Garlic, lemon","Shellfish, Dairy",Contains,170.5,Veg
+Lobster Bisque,Lobster,,Butter,"Cream, brandy","Shellfish, Dairy",Contains,103.2,Veg
+Caesar Shrimp Skewers,Shrimp,,Olive oil,Caesar dressing,"Shellfish, Dairy",Contains,119.0,Veg
+Prawn Curry,Prawns,,Coconut milk,Curry spices,"Shellfish, Dairy",Contains,118.0,Non-Veg
+Lobster Roll,Lobster,,Mayonnaise,"Celery, lemon juice","Shellfish, Eggs",Contains,193.7,Veg
+Lobster Roll,Lobster,,Mayonnaise,"Celery, lemon juice","Shellfish, Eggs",Contains,193.7,Veg
+Bacon-Wrapped Shrimp,Shrimp,,Bacon,Seasonings,"Shellfish, Pork",Contains,119.0,Veg
+Shrimp Fried Rice,Shrimp,,Vegetable oil,Soy sauce,"Shellfish, Soybeans",Contains,143.8,Veg
+Soy Milk,Soybeans,Sugar,,Emulsifiers,Soybeans,Contains,40.9,Veg
+Soy Milk,Soybeans,Sugar,,Emulsifiers,Soybeans,Contains,40.9,Veg
+Tofu Stir-Fry,Tofu,,Vegetable oil,Soy sauce,Soybeans,Contains,81.7,Veg
+Miso Soup,Miso paste,,,"Tofu, seaweed",Soybeans,Contains,26.1,Veg
+Tofu Scramble,Tofu,,Vegetable oil,"Turmeric, spices",Soybeans,Contains,81.7,Veg
+Chicken Teriyaki,Chicken,,Soy sauce,"Honey, ginger",Soybeans,Contains,153.6,Non-Veg
+Tofu Stir-Fry,Tofu,,Vegetable oil,Soy sauce,Soybeans,Contains,81.7,Veg
+Teriyaki Beef,Beef,,Soy sauce,"Teriyaki sauce, vegetables",Soybeans,Contains,209.7,Non-Veg
+Sushi Rolls,Sushi rice,,Soy sauce,"Nori (seaweed), fish","Soybeans, Fish",Contains,130.9,Veg
+Wheat Bread,Wheat flour,,,Salt,Wheat,Contains,273.8,Veg
+Wheat Bread,Wheat flour,,,Salt,Wheat,Contains,273.8,Veg
+Zucchini Bread,Zucchini,Sugar,Vegetable oil,Flour,Wheat,Contains,394.1,Veg
+Chicken Noodle Casserole,Chicken,,Butter,"Noodles, vegetables",Wheat,Contains,25.4,Non-Veg
+Onion Rings,Onions,,Vegetable oil,Flour,Wheat,Contains,353.2,Veg
+Chicken Pot Pie,Chicken,,Butter,"Vegetables, pastry",Wheat,Contains,201.6,Non-Veg
+Grilled Portobello Mushroom Burger,Portobello mushrooms,,,"Burger bun, vegetables",Wheat,Contains,29.0,Veg
+Aloo Paratha,Potatoes,,Ghee,"Wheat flour, spices",Wheat,Contains,231.1,Veg
+Oatmeal Raisin Cookies,Oats,Sugar,Butter,Flour,"Wheat, Dairy",Contains,390.5,Veg
+Oatmeal Raisin Cookies,Oats,Sugar,Butter,Flour,"Wheat, Dairy",Contains,390.5,Veg
+Pancakes,Flour,Sugar,Butter,Baking powder,"Wheat, Dairy",Contains,230.7,Veg
+Carrot Cake,Carrots,Sugar,Vegetable oil,Cinnamon,"Wheat, Dairy",Contains,334.7,Veg
+Blueberry Muffins,Blueberries,Sugar,Butter,Flour,"Wheat, Dairy",Contains,381.4,Veg
+Chocolate Chip Cookies,Flour,Sugar,Butter,Chocolate chips,"Wheat, Dairy",Contains,478.6,Veg
+Mushroom Risotto,Arborio rice,,Butter,Mushroom,"Wheat, Dairy",Contains,84.7,Veg
+Cinnamon Rolls,Flour,Sugar,Butter,Cinnamon,"Wheat, Dairy",Contains,334.6,Veg
+Pineapple Upside-Down Cake,Pineapple,Sugar,Butter,Flour,"Wheat, Dairy",Contains,50.8,Veg
+Apple Pie,Apples,Sugar,Butter,Cinnamon,"Wheat, Dairy",Contains,240.1,Veg
+Banana Bread,Bananas,Sugar,Butter,Flour,"Wheat, Dairy",Contains,262.6,Veg
+Vanilla Cupcakes,Flour,Sugar,Butter,Vanilla extract,"Wheat, Dairy",Contains,400.2,Veg
+Apple Crisp,Apples,Sugar,Butter,Cinnamon,"Wheat, Dairy",Contains,165.5,Veg
+Pasta Carbonara,Pasta,,Bacon,"Egg, Parmesan cheese","Wheat, Dairy",Contains,204.6,Veg
+Blueberry Pancakes,Flour,Sugar,Butter,Blueberries,"Wheat, Dairy",Contains,219.0,Veg
+Lemon Bars,Flour,Sugar,Butter,Lemon juice,"Wheat, Dairy",Contains,375.0,Veg
+Pumpkin Pie,Pumpkin,Sugar,Butter,"Cinnamon, nutmeg","Wheat, Dairy",Contains,238.8,Veg
+Mixed Berry Pie,Mixed berries,Sugar,Butter,Flour,"Wheat, Dairy",Contains,242.1,Veg
+Garlic Bread,Bread,,Butter,Garlic,"Wheat, Dairy",Contains,339.5,Veg
+Berry Cobbler,Mixed berries,Sugar,Butter,Flour,"Wheat, Dairy",Contains,51.0,Veg
+Baked Ziti,Pasta,,Cheese,Tomato sauce,"Wheat, Dairy",,117.7,Veg
+Baked Ziti,Pasta,,Cheese,Tomato sauce,"Wheat, Dairy",Contains,117.7,Veg
+Key Lime Pie,Lime juice,Sugar,Butter,Graham cracker crust,"Wheat, Dairy",Contains,308.6,Veg
+Lemon Poppy Seed Muffins,Flour,Sugar,Butter,"Lemon zest, poppy seeds","Wheat, Dairy",Contains,349.3,Veg
+Chicken Quesadilla,Chicken,,Butter,Cheese,"Wheat, Dairy",Contains,215.8,Non-Veg
+Pancake Stack,Flour,Sugar,Butter,Maple syrup,"Wheat, Dairy",Contains,226.0,Veg
+Strawberry Shortcake,Strawberries,Sugar,Whipped cream,Shortcake,"Wheat, Dairy",Contains,172.2,Veg
+Berry Crumble,Mixed berries,Sugar,Butter,"Oats, cinnamon","Wheat, Dairy",Contains,51.0,Veg
+Raspberry Cheesecake,Cream cheese,Sugar,Butter,"Graham cracker crust, raspberries","Wheat, Dairy",Contains,284.0,Vegan
+Blueberry Pancakes,Flour,Sugar,Butter,Blueberries,"Wheat, Dairy",Contains,219.0,Veg
+Oatmeal Raisin Cookies,Oats,Brown sugar,Butter,"Raisins, cinnamon","Wheat, Dairy",Contains,390.5,Veg
+Apple Crisp,Apples,Sugar,Butter,"Cinnamon, oats","Wheat, Dairy",Contains,165.5,Veg
+Chicken Enchiladas,Chicken,,Enchilada sauce,"Cheese, tortillas","Wheat, Dairy",Contains,214.7,Non-Veg
+Caesar Salad Wrap,Romaine lettuce,,Caesar dressing,"Parmesan cheese, croutons","Wheat, Dairy",Contains,160.4,Veg
+Caesar Salad Wrap,Romaine lettuce,,Caesar dressing,"Parmesan cheese, croutons","Wheat, Dairy",Contains,160.4,Veg
+S'mores,Graham crackers,Marshmallows,Chocolate,,"Wheat, Dairy",Contains,0.0,Veg
+Tiramisu,Ladyfingers,Sugar,Mascarpone cheese,"Coffee, cocoa","Wheat, Dairy",Contains,332.8,Veg
+Cinnamon Rolls,Dough,Sugar,Butter,"Cinnamon, icing","Wheat, Dairy",Contains,334.6,Veg
+Chicken Caesar Salad,Chicken,,Caesar dressing,"Romaine lettuce, croutons","Wheat, Dairy",Contains,159.5,Non-Veg
+Vegetable Lasagna,Vegetables,,Olive oil,"Tomato sauce, cheese","Wheat, Dairy",Contains,116.0,Veg
+Garlic Bread,Bread,,Butter,Garlic,"Wheat, Dairy",Contains,339.5,Veg
+Chicken Alfredo Pizza,Pizza dough,,,"Chicken, Alfredo sauce","Wheat, Dairy",Contains,256.6,Veg
+Caesar Pasta Salad,Pasta,,Caesar dressing,"Romaine lettuce, Parmesan cheese","Wheat, Dairy",Contains,204.4,Veg
+Baked Apple,Apples,Sugar,Butter,"Cinnamon, oats","Wheat, Dairy",Contains,100.5,Veg
+Apple Pie,Apples,Sugar,Butter,"Cinnamon, pastry","Wheat, Dairy",Contains,240.1,Veg
+Chicken Parmesan,Chicken,,Olive oil,"Tomato sauce, cheese","Wheat, Dairy",Contains,203.5,Non-Veg
+Pumpkin Pie,Pumpkin,Sugar,Butter,"Pumpkin spice, pastry","Wheat, Dairy",Contains,238.8,Veg
+Blueberry Muffins,Flour,Sugar,Butter,Blueberries,"Wheat, Dairy",Contains,381.4,Veg
+Sausage and Pepper Pizza,Pizza dough,,,"Sausage, bell peppers","Wheat, Dairy",Contains,321.9,Veg
+Beef Wellington,Beef,,Butter,"Mushrooms, puff pastry","Wheat, Dairy",Contains,330.9,Non-Veg
+Baked Ziti,Pasta,,,"Tomato sauce, cheese","Wheat, Dairy",Contains,117.7,Veg
+Lemon Poppy Seed Muffins,Flour,Sugar,Butter,"Lemon zest, poppy seeds","Wheat, Dairy",Contains,349.3,Veg
+Apple Crisp,Apples,Sugar,Butter,"Cinnamon, oats","Wheat, Dairy",Contains,165.5,Veg
+Chicken Enchiladas,Chicken,,Enchilada sauce,"Cheese, tortillas","Wheat, Dairy",Contains,214.7,Non-Veg
+Caesar Salad Wrap,Romaine lettuce,,Caesar dressing,"Parmesan cheese, croutons","Wheat, Dairy",Contains,160.4,Veg
+S'mores,Graham crackers,Marshmallows,Chocolate,,"Wheat, Dairy",Contains,0.0,Veg
+Tiramisu,Ladyfingers,Sugar,Mascarpone cheese,"Coffee, cocoa","Wheat, Dairy",Contains,332.8,Veg
+Cinnamon Rolls,Dough,Sugar,Butter,"Cinnamon, icing","Wheat, Dairy",Contains,334.6,Veg
+Chicken Caesar Salad,Chicken,,Caesar dressing,"Romaine lettuce, croutons","Wheat, Dairy",Contains,159.5,Non-Veg
+Vegetable Lasagna,Vegetables,,Olive oil,"Tomato sauce, cheese","Wheat, Dairy",Contains,116.0,Veg
+Garlic Bread,Bread,,Butter,Garlic,"Wheat, Dairy",Contains,339.5,Veg
+Chicken Alfredo Pizza,Pizza dough,,,"Chicken, Alfredo sauce","Wheat, Dairy",Contains,256.6,Veg
+Caesar Pasta Salad,Pasta,,Caesar dressing,"Romaine lettuce, Parmesan cheese","Wheat, Dairy",Contains,204.4,Veg
+Baked Apple,Apples,Sugar,Butter,"Cinnamon, oats","Wheat, Dairy",Contains,100.5,Veg
+Apple Pie,Apples,Sugar,Butter,"Cinnamon, pastry","Wheat, Dairy",Contains,240.1,Veg
+Chicken Parmesan,Chicken,,Olive oil,"Tomato sauce, cheese","Wheat, Dairy",Contains,203.5,Non-Veg
+Pumpkin Pie,Pumpkin,Sugar,Butter,"Pumpkin spice, pastry","Wheat, Dairy",Contains,238.8,Veg
+Blueberry Muffins,Flour,Sugar,Butter,Blueberries,"Wheat, Dairy",Contains,381.4,Veg
+Sausage and Pepper Pizza,Pizza dough,,,"Sausage, bell peppers","Wheat, Dairy",Contains,321.9,Veg
+Beef Wellington,Beef,,Butter,"Mushrooms, puff pastry","Wheat, Dairy",Contains,330.9,Non-Veg
+Jalebi,Flour,Sugar,Ghee,Saffron syrup,"Wheat, Dairy",Contains,278.9,Veg
+Butter Naan,Flour,,Butter,,"Wheat, Dairy",Contains,313.7,Veg
+Tiramisu,Ladyfingers,Sugar,"Mascarpone cheese, coffee liqueur",Cocoa powder,"Wheat, Dairy, Alcohol",Contains,332.8,Veg
+Chocolate Cake,Flour,Sugar,Butter,Cocoa powder,"Wheat, Dairy, Cocoa",Contains,391.8,Veg
+Chocolate Chip Pancakes,Flour,Sugar,Butter,Chocolate chips,"Wheat, Dairy, Cocoa",Contains,245.4,Veg
+Lemon Bars,Lemon juice,Sugar,Butter,"Flour, eggs","Wheat, Dairy, Eggs",Contains,375.0,Veg
+Lemon Bars,Lemon juice,Sugar,Butter,"Flour, eggs","Wheat, Dairy, Eggs",Contains,375.0,Veg
+Pecan Pie,Pecans,Sugar,Butter,Corn syrup,"Wheat, Dairy, Nuts",Contains,403.9,Veg
+Zucchini Bread,Zucchini,Sugar,Butter,"Cinnamon, nuts","Wheat, Dairy, Nuts",Contains,394.1,Veg
+Banana Bread,Bananas,Sugar,Butter,"Cinnamon, nuts","Wheat, Dairy, Nuts",Contains,262.6,Veg
+Hawaiian Pizza,Pizza dough,,,"Pineapple, ham","Wheat, Pork, Dairy",Contains,229.8,Veg
